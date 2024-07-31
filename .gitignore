@@ -1,0 +1,12 @@
+# python
+__pycache__/
+venv
+.env
+
+# Svelte
+node_modules/
+
+# General 
+.DS_Store
+.vscode/
+credentials.json
